@@ -1,11 +1,11 @@
 #1
-x = ["apple", "banana", "cherry"] #list - ordered, changeable, allow duplicates
+x = ["apple", "banana", "cherry"] #list 
 print(type(x))
 #2
-x = ("apple", "banana", "cherry") #tuple - ordered, unchangeable, allow duplicates
+x = ("apple", "banana", "cherry") #tuple 
 print(type(x))
 #3
-x = {"apple", "banana", "cherry "} #set - unordered, unchangeable, don`t allow duplicates 
+x = {"apple", "banana", "cherry "} #set 
 print(type(x))
 #4
 x = range(6)

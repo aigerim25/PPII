@@ -15,14 +15,9 @@ y = "is "
 z = "awesome"
 print(x + y + z)
 #5
-x = "awesome" # outside variable
+x = "awesome"
 def myfunc():
-    x = "fantastic" # inside variable
+    x = "fantastic" 
     print("Python is " + x)
-
-myfunc() # inside function output
-
-print("Python is " + x) # outside function print
-"""
-"+" - это concetination, то есть two varibles will be printed as one word
-"""
+myfunc() 
+print("Python is " + x)
