@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Elena",
+    "email": "elenawatkins@suretech.com",
+    "birthday": "2002-12-13",
+    "group": "family"
+  },
+  {  
+    "name": "Hodges",
+    "email": "hodgeswatkins@suretech.com",
+    "birthday": "2004-04-05",
+    "group": "friends"
+  },
+  {
+    "name": "Kelley",
+    "email": "kelleywatkins@suretech.com",
+    "birthday": "1995-09-08",
+    "group": "work"
+  },
+  {
+    "name": "Hodges",
+    "email": "hodgeswatkins@suretech.com",
+    "birthday": "2004-04-05",
+    "group": "friends"
+  },
+  {
+    "name": "Nadine",
+    "email": "nadinewatkins@suretech.com",
+    "birthday": "1998-08-03",
+    "group": "work"
+  },
+  {
+    "name": "Leslie",
+    "email": "lesliewatkins@suretech.com",
+    "birthday": "1999-10-06",
+    "group": "friends"
+  },
+  {
+    "name": "Juliana",
+    "email": "julianawatkins@suretech.com",
+    "birthday": "1990-02-08",
+    "group": "friends"
+  }
+]
